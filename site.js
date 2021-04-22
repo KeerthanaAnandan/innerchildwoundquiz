@@ -176,22 +176,23 @@ function next(e) {
   //Update the progress Bar
 
   const progressBarFull = document.getElementById("progressBarFull");
+ 
 
-  progressBarFull.style.width = ` ${(question_count / Max_Questions) * 100}%`;
+  progressBarFull.style.width = ` ${((question_count / Max_Questions) * 100 + 6 )}%`;
 }
 
 function show(count) {
   //progress text
   const progressText = document.getElementById("progressText");
 
-  progressText.innerText = `Question ${count + 1}/${Max_Questions}`;
+  progressText.innerText = ` ${count + 1}/${Max_Questions}`;
 
   let question = document.getElementById("questions");
   let [first, second] = questions[count].options;
   ///////no of questions
 
   question.innerHTML = `
-  <h2>Q${count + 1}. ${questions[count].question}</h2>
+  <p class="iamquestion"> ${questions[count].question}</p>
    <ul class="option_group">
   <li><span class="option">${first}</span></li>
   <li ><span class="option">${second}</span></li>

@@ -9,7 +9,8 @@
       href="https://fonts.googleapis.com/css2?family=Poppins&display=swap"
       rel="stylesheet"
     />
-
+<!--aos-->
+<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <!-- style.css -->
     <link rel="stylesheet" href="style.css" />
     <link rel="stylesheet" href="mailchimp.css" />
@@ -18,9 +19,18 @@
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css"
     />
     <style>
-      .link{
+      /*.link{
         color: #b69560;
         text-decoration: #b69560;
+      }*/
+      .extra{
+        margin: 30px;
+
+      }
+      #headone{
+        color :#f6c451;
+        text-decoration: #f6c451;
+       
       }
       .btn-last{
         background-color: #000;
@@ -59,18 +69,23 @@
         .logo img {
           width: 20%;
         }
+        .extra{
+          font-size: smaller;
+          line-break: loose;
+          line-height: 20px;
+        }
       }
     </style>
   </head>
   <body>
-    <!--navbar-->
+    <!--navbar
     <nav id="navbar" class="navfull">
       <h1 class="logo">
         <a href="index.html"><img src="assets/logo.png" width="15%" /></a>
       </h1>
     </nav>
-    <br /><br /><br /> <br/> <br/><br /><br /> <br/> 
-    <div id="showcas">
+    <br /><br /><br /> <br/> <br/><br /><br /> <br/> -->
+    <div id="showcas" data-aos="fade-down">
       <div class="bucket">
         <div class="showcase-content" id="bucket">
           <h1 class="headmsg" id="headone" ></h1>
@@ -79,23 +94,18 @@
           <br />-->
           <br />
           <p class="msghere"></p>
-          <a class="btn-last" href="index.html">Start over</a>
+         <!-- <a class="btn-last" href="index.html">Start over</a>-->
         </div>
       </div>
 
-      <br />
-      <h4>
-        &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; Shadow work is a term for a group of activities used to heal your repressed inner child wounds, which caused the Shadow.  This Shadow work leads to much better and healthier relationships with yourself, others and allows you to finally break free of unhealthy or toxic relationships and live a life of joy and peace-of-mind that you deserve.  
-       
-      
-      </h4> 
-      <br> <br>
-      <h4> &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp;Sign up for the  <span
-        ><a href="https://mailchi.mp/52bf7b5e3290/self-love" class="link">“Shadow to Self-Love Masterclass”</a> </span>now using this special discount code of “SHADOW”.  Code expires soon.</h4>
 
-      <br /> <br> <br> <br>
+      <p class="extra">
+        &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; REPRESSED INNER CHILD WOUNDS CREATE WHAT IS KNOWN AS YOUR SHADOW.  SHADOW WORK IS THE PROCESS OF INTEGRATING AND HEALING YOUR SHADOW.  THIS HEALING PROCESS OPENS YOUR HEART SPACE UP TO A HEALTHIER AND MORE BALANCED RELATIONSHIP WITH YOURSELF AND OTHERS.  IT ALSO ALLOWS YOU TO BREAK FREE OF TOXIC RELATIONSHIPS WITH YOURSELF AND OTHERS, ALLOWING YOU TO HAVE & MAINTAIN LONG-TERM HEALTHY RELATIONSHIPS. MY NEXT CLASS IS AROUND THE CORNER. <a href="https://mailchi.mp/52bf7b5e3290/self-love" class="link colorone"> FIND OUT MORE & SIGN UP NOW </a>TO GET THE JOY, LOVE AND PEACE-OF-MIND YOU KNOW YOU DESERVE. </p> 
+      
+
+      <br /> <br>
       <div>
-        <h3 class="sharetext">Share the results with your friends now!</h3>
+        <h3 class="sharetext" data-aos="fade-right">Share the results with your friends now!</h3>
       </div>
       <div class="share-btn-container">
         <a href="#" class="facebook-btn">
@@ -118,7 +128,7 @@
         </a>
       </div>
     </div>
-    <footer class="share-btn-area footer">
+    <footer class="share-btn-area footer" data-aos="fade-left"  data-aos-duration="3000">
       <div>
         <h5>Follow us on</h5>
       </div>
@@ -134,12 +144,17 @@
 
         <a href="https://twitter.com/KSalone_" class="twitter-btn"><i class="fab fa-twitter"></i></a>-->
         <a href="https://www.instagram.com/thespiritofagoddess/" class="instagram-btn"><i class="fab fa-instagram"></i></a>
+        &
         <a href="https://www.instagram.com/che_the_goddess/" class="instagram-btn"><i class="fab fa-instagram"></i></a>
       </div>
       
     <br/>
      
     </footer>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+      AOS.init();
+    </script>
     <!-- user info -->
     <script src="end.js"></script>
   </body>

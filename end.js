@@ -15,7 +15,8 @@ if (
 ) {
   typo = "Abandonment Wound ";
   mess = [
-    "This wound is caused when you were abandoned by either or both of your parents.  You had to fend for yourself and this has caused you to be very needy in relationships.  You are afraid of being alone and bounce from one relationship to the next with little to no breaks in between.  You often attract emotionally unavailable people such as married men, or men who have commitment issues."
+    "This wound is caused when you were abandoned by either or both of your parents.  You had to fend for yourself and this has caused you to be very needy in relationships.  You are afraid of being alone and bounce from one relationship to the next with little to no breaks in between.  You often attract emotionally unavailable people such as married men, or men who have commitment issues.",
+    "False Identity:  I am not wanted, I am not good enough, I am alone, I am not worthy of love"
   ];
 }
 
@@ -29,6 +30,7 @@ else if (
   typo = "Neglect Wound";
   mess = [
     "This wound is caused by either or both parents neglecting the child during their early childhood years.  They grow up and because of the neglect struggle with setting boundaries, being vulnerable and expressing their emotions.  When you get into a loving intimate relationship, you don’t know what to do with it because you’ve never had it before.",
+    "False Identity:  I am not wanted, I am not good enough, I am not worthy of love",
   ]; 
 }
 //guilt
@@ -41,6 +43,7 @@ else if (
   typo = "Guilt Wound";
   mess = [
     "This wound is caused by either or both of your parents using manipulation to get what they want from you.  They make you feel guilty.  This lead you to feel very guilty and give in.  Thus you adopt this style of guilt manipulation (also known as guilt-tripping) in your relationships as well.  You often times are self-sacrificing and put others needs ahead of your own because you feel your wants, needs or desires don’t matter that much.  Self-sacrificing people often attract Narcissist because you have the same energy frequency of lack – the narcissist feels like there is not enough to go around, so he’s going get all his needs met over yours.  The self-sacrificing woman also comes from a space of lack because she believes that there is not enough to go around, hence she’s going to give up all of her wants, needs and desires so someone else can have what they desire.",
+    "False Identity:  I am wrong, I am not worthy, I am not good enough",
   ]; 
 }
 // trust
@@ -53,6 +56,7 @@ else if (
   typo = "Trust Wound";
   mess = [
     "Do you feel like you don’t trust yourself to make the right decision? This wound is caused by a child being abused physically, emotionally or mentally by either/both parents or a trusted person.  This causes you to go into a hyper-vigilant mode to overprotect yourself and your children.  You often times don’t feel safe and feel people are out to get you.  You tend to avoid intimate long-term relationships for fear of being hurt.  You struggle with trusting yourself and others, therefore seek a lot of external validation.  This causes you a lot of pain in your life because you often times get let down simply by seeking validation outside of yourself, which you should find within.",
+    "False Identity:  I am unsafe (coupled with anxiety and/or paranoia)",
   ]; 
 }
 // unworthy
@@ -64,7 +68,8 @@ else if (
 ) {
  typo = "Not Good Enough/Unworthy Wound";
  mess = [
- " This Wound is caused by an excessive amount of criticism from either or both parents during your early childhood years.  You end up in your adult life having unconscious feelings of being “not worthy” or “not good enough.”  This shows up as your perfectionist tendencies.  It is also manifests as you being over-critical of others.  This is you simply projecting your feelings of unworthiness on others to avoid feeling this negative feeling of unworthiness yourself.  Your repression of your unworthiness, gives rise to your Shadow.  "
+ " This Wound is caused by an excessive amount of criticism from either or both parents during your early childhood years.  You end up in your adult life having unconscious feelings of being “not worthy” or “not good enough.”  This shows up as your perfectionist tendencies.  It is also manifests as you being over-critical of others.  This is you simply projecting your feelings of unworthiness on others to avoid feeling this negative feeling of unworthiness yourself.  Your repression of your unworthiness, gives rise to your Shadow.  ",
+ "False Identity:  I am flawed, I am unworthy, I am not good enough",
  ]; 
 }
 
@@ -78,7 +83,9 @@ else if (
   typo = "Abandonment & Neglect Wound ";
   mess = [
     "This wound is caused when you were abandoned by either or both of your parents.  You had to fend for yourself and this has caused you to be very needy in relationships.  You are afraid of being alone and bounce from one relationship to the next with little to no breaks in between.  You often attract emotionally unavailable people such as married men, or men who have commitment issues." ,
+    "False Identity:  I am not wanted, I am not good enough, I am alone, I am not worthy of love" ,
     "This wound is caused by either or both parents neglecting the child during their early childhood years.  They grow up and because of the neglect struggle with setting boundaries, being vulnerable and expressing their emotions.  When you get into a loving intimate relationship, you don’t know what to do with it because you’ve never had it before.",
+    "False Identity:  I am not wanted, I am not good enough, I am not worthy of love",
   ];
 }
 
@@ -92,7 +99,9 @@ else if (
   typo = "Abandonment & Guilt Wound";
   mess = [
     "This wound is caused when you were abandoned by either or both of your parents.  You had to fend for yourself and this has caused you to be very needy in relationships.  You are afraid of being alone and bounce from one relationship to the next with little to no breaks in between.  You often attract emotionally unavailable people such as married men, or men who have commitment issues.",
+    "False Identity:  I am not wanted, I am not good enough, I am alone, I am not worthy of love",
     "This wound is caused by either or both of your parents using manipulation to get what they want from you.  They make you feel guilty.  This lead you to feel very guilty and give in.  Thus you adopt this style of guilt manipulation (also known as guilt-tripping) in your relationships as well.  You often times are self-sacrificing and put others needs ahead of your own because you feel your wants, needs or desires don’t matter that much.  Self-sacrificing people often attract Narcissist because you have the same energy frequency of lack – the narcissist feels like there is not enough to go around, so he’s going get all his needs met over yours.  The self-sacrificing woman also comes from a space of lack because she believes that there is not enough to go around, hence she’s going to give up all of her wants, needs and desires so someone else can have what they desire.",
+    "False Identity:  I am wrong, I am not worthy, I am not good enough",
   
   ];
 }
@@ -106,7 +115,9 @@ else if (
   typo = "Abandonment & Trust Wound";
   mess = [
     "This wound is caused when you were abandoned by either or both of your parents.  You had to fend for yourself and this has caused you to be very needy in relationships.  You are afraid of being alone and bounce from one relationship to the next with little to no breaks in between.  You often attract emotionally unavailable people such as married men, or men who have commitment issues.",
+    "False Identity:  I am not wanted, I am not good enough, I am alone, I am not worthy of love",
     "Do you feel like you don’t trust yourself to make the right decision? This wound is caused by a child being abused physically, emotionally or mentally by either/both parents or a trusted person.  This causes you to go into a hyper-vigilant mode to overprotect yourself and your children.  You often times don’t feel safe and feel people are out to get you.  You tend to avoid intimate long-term relationships for fear of being hurt.  You struggle with trusting yourself and others, therefore seek a lot of external validation.  This causes you a lot of pain in your life because you often times get let down simply by seeking validation outside of yourself, which you should find within.   ",
+    "False Identity:  I am unsafe (coupled with anxiety and/or paranoia)",
   ];
 }
 //ab == unwo
@@ -119,7 +130,9 @@ else if (
   typo = "Abandonment & Not Good Enough/Unworthy Wound";
   mess = [
     "This wound is caused when you were abandoned by either or both of your parents.  You had to fend for yourself and this has caused you to be very needy in relationships.  You are afraid of being alone and bounce from one relationship to the next with little to no breaks in between.  You often attract emotionally unavailable people such as married men, or men who have commitment issues.",
-    " This Wound is caused by an excessive amount of criticism from either or both parents during your early childhood years.  You end up in your adult life having unconscious feelings of being “not worthy” or “not good enough.”  This shows up as your perfectionist tendencies.  It is also manifests as you being over-critical of others.  This is you simply projecting your feelings of unworthiness on others to avoid feeling this negative feeling of unworthiness yourself.  Your repression of your unworthiness, gives rise to your Shadow.  "
+    "False Identity:  I am not wanted, I am not good enough, I am alone, I am not worthy of love",
+    " This Wound is caused by an excessive amount of criticism from either or both parents during your early childhood years.  You end up in your adult life having unconscious feelings of being “not worthy” or “not good enough.”  This shows up as your perfectionist tendencies.  It is also manifests as you being over-critical of others.  This is you simply projecting your feelings of unworthiness on others to avoid feeling this negative feeling of unworthiness yourself.  Your repression of your unworthiness, gives rise to your Shadow.  ",
+    "False Identity:  I am flawed, I am unworthy, I am not good enough",
   ];
 }
 //neg == gu
@@ -132,7 +145,9 @@ else if (
   typo = "Neglect & Guilt wound";
   mess = [
     "This wound is caused by either or both parents neglecting the child during their early childhood years.  They grow up and because of the neglect struggle with setting boundaries, being vulnerable and expressing their emotions.  When you get into a loving intimate relationship, you don’t know what to do with it because you’ve never had it before.",
+    "False Identity:  I am not wanted, I am not good enough, I am not worthy of love",
     "This wound is caused by either or both of your parents using manipulation to get what they want from you.  They make you feel guilty.  This lead you to feel very guilty and give in.  Thus you adopt this style of guilt manipulation (also known as guilt-tripping) in your relationships as well.  You often times are self-sacrificing and put others needs ahead of your own because you feel your wants, needs or desires don’t matter that much.  Self-sacrificing people often attract Narcissist because you have the same energy frequency of lack – the narcissist feels like there is not enough to go around, so he’s going get all his needs met over yours.  The self-sacrificing woman also comes from a space of lack because she believes that there is not enough to go around, hence she’s going to give up all of her wants, needs and desires so someone else can have what they desire.",
+    "False Identity:  I am wrong, I am not worthy, I am not good enough",
   
   ];
 }
@@ -146,7 +161,9 @@ else if (
   typo = "Neglect & Trust wound";
   mess = [
     "This wound is caused by either or both parents neglecting the child during their early childhood years.  They grow up and because of the neglect struggle with setting boundaries, being vulnerable and expressing their emotions.  When you get into a loving intimate relationship, you don’t know what to do with it because you’ve never had it before.",
+    "False Identity:  I am not wanted, I am not good enough, I am not worthy of love",
     "Do you feel like you don’t trust yourself to make the right decision? This wound is caused by a child being abused physically, emotionally or mentally by either/both parents or a trusted person.  This causes you to go into a hyper-vigilant mode to overprotect yourself and your children.  You often times don’t feel safe and feel people are out to get you.  You tend to avoid intimate long-term relationships for fear of being hurt.  You struggle with trusting yourself and others, therefore seek a lot of external validation.  This causes you a lot of pain in your life because you often times get let down simply by seeking validation outside of yourself, which you should find within.",
+    "False Identity:  I am unsafe (coupled with anxiety and/or paranoia)",
   
   ];
 }
@@ -160,7 +177,10 @@ else if (
   typo = "Neglect & Not Good Enough/Unworthy Wound";
   mess = [
     "This wound is caused by either or both parents neglecting the child during their early childhood years.  They grow up and because of the neglect struggle with setting boundaries, being vulnerable and expressing their emotions.  When you get into a loving intimate relationship, you don’t know what to do with it because you’ve never had it before.",
-    " This Wound is caused by an excessive amount of criticism from either or both parents during your early childhood years.  You end up in your adult life having unconscious feelings of being “not worthy” or “not good enough.”  This shows up as your perfectionist tendencies.  It is also manifests as you being over-critical of others.  This is you simply projecting your feelings of unworthiness on others to avoid feeling this negative feeling of unworthiness yourself.  Your repression of your unworthiness, gives rise to your Shadow.  "
+    
+    "False Identity:  I am not wanted, I am not good enough, I am not worthy of love",
+    " This Wound is caused by an excessive amount of criticism from either or both parents during your early childhood years.  You end up in your adult life having unconscious feelings of being “not worthy” or “not good enough.”  This shows up as your perfectionist tendencies.  It is also manifests as you being over-critical of others.  This is you simply projecting your feelings of unworthiness on others to avoid feeling this negative feeling of unworthiness yourself.  Your repression of your unworthiness, gives rise to your Shadow.  ",
+    "False Identity:  I am flawed, I am unworthy, I am not good enough",
   ];
 }
 //gu == tru 
@@ -173,7 +193,9 @@ else if (
   typo = "Guilt & Trust wound";
   mess = [
     "This wound is caused by either or both of your parents using manipulation to get what they want from you.  They make you feel guilty.  This lead you to feel very guilty and give in.  Thus you adopt this style of guilt manipulation (also known as guilt-tripping) in your relationships as well.  You often times are self-sacrificing and put others needs ahead of your own because you feel your wants, needs or desires don’t matter that much.  Self-sacrificing people often attract Narcissist because you have the same energy frequency of lack – the narcissist feels like there is not enough to go around, so he’s going get all his needs met over yours.  The self-sacrificing woman also comes from a space of lack because she believes that there is not enough to go around, hence she’s going to give up all of her wants, needs and desires so someone else can have what they desire.",
+    "False Identity:  I am wrong, I am not worthy, I am not good enough",
     "Do you feel like you don’t trust yourself to make the right decision? This wound is caused by a child being abused physically, emotionally or mentally by either/both parents or a trusted person.  This causes you to go into a hyper-vigilant mode to overprotect yourself and your children.  You often times don’t feel safe and feel people are out to get you.  You tend to avoid intimate long-term relationships for fear of being hurt.  You struggle with trusting yourself and others, therefore seek a lot of external validation.  This causes you a lot of pain in your life because you often times get let down simply by seeking validation outside of yourself, which you should find within.",
+    "False Identity:  I am unsafe (coupled with anxiety and/or paranoia)",
   
   ];
 }
@@ -187,7 +209,9 @@ else if (
   typo = "Guilt & Not Good Enough/Unworthy Wound";
   mess = [
     "This wound is caused by either or both of your parents using manipulation to get what they want from you.  They make you feel guilty.  This lead you to feel very guilty and give in.  Thus you adopt this style of guilt manipulation (also known as guilt-tripping) in your relationships as well.  You often times are self-sacrificing and put others needs ahead of your own because you feel your wants, needs or desires don’t matter that much.  Self-sacrificing people often attract Narcissist because you have the same energy frequency of lack – the narcissist feels like there is not enough to go around, so he’s going get all his needs met over yours.  The self-sacrificing woman also comes from a space of lack because she believes that there is not enough to go around, hence she’s going to give up all of her wants, needs and desires so someone else can have what they desire.",
-    " This Wound is caused by an excessive amount of criticism from either or both parents during your early childhood years.  You end up in your adult life having unconscious feelings of being “not worthy” or “not good enough.”  This shows up as your perfectionist tendencies.  It is also manifests as you being over-critical of others.  This is you simply projecting your feelings of unworthiness on others to avoid feeling this negative feeling of unworthiness yourself.  Your repression of your unworthiness, gives rise to your Shadow.  "
+    "False Identity:  I am wrong, I am not worthy, I am not good enough",
+    " This Wound is caused by an excessive amount of criticism from either or both parents during your early childhood years.  You end up in your adult life having unconscious feelings of being “not worthy” or “not good enough.”  This shows up as your perfectionist tendencies.  It is also manifests as you being over-critical of others.  This is you simply projecting your feelings of unworthiness on others to avoid feeling this negative feeling of unworthiness yourself.  Your repression of your unworthiness, gives rise to your Shadow.  ",
+    "False Identity:  I am flawed, I am unworthy, I am not good enough",
   ];
 }
 //tru == unwo
@@ -200,9 +224,20 @@ else if (
   typo = "Trust & Not Good Enough/Unworthy Wound";
   mess = [
     "Do you feel like you don’t trust yourself to make the right decision? This wound is caused by a child being abused physically, emotionally or mentally by either/both parents or a trusted person.  This causes you to go into a hyper-vigilant mode to overprotect yourself and your children.  You often times don’t feel safe and feel people are out to get you.  You tend to avoid intimate long-term relationships for fear of being hurt.  You struggle with trusting yourself and others, therefore seek a lot of external validation.  This causes you a lot of pain in your life because you often times get let down simply by seeking validation outside of yourself, which you should find within.",
-    " This Wound is caused by an excessive amount of criticism from either or both parents during your early childhood years.  You end up in your adult life having unconscious feelings of being “not worthy” or “not good enough.”  This shows up as your perfectionist tendencies.  It is also manifests as you being over-critical of others.  This is you simply projecting your feelings of unworthiness on others to avoid feeling this negative feeling of unworthiness yourself.  Your repression of your unworthiness, gives rise to your Shadow.  "
+    "False Identity:  I am unsafe (coupled with anxiety and/or paranoia)",
+    " This Wound is caused by an excessive amount of criticism from either or both parents during your early childhood years.  You end up in your adult life having unconscious feelings of being “not worthy” or “not good enough.”  This shows up as your perfectionist tendencies.  It is also manifests as you being over-critical of others.  This is you simply projecting your feelings of unworthiness on others to avoid feeling this negative feeling of unworthiness yourself.  Your repression of your unworthiness, gives rise to your Shadow.  ",
+    "False Identity:  I am flawed, I am unworthy, I am not good enough",
   
   ];
+}
+else{
+  {
+    typo = "Neglect Wound";
+    mess = [
+      "This wound is caused by either or both parents neglecting the child during their early childhood years.  They grow up and because of the neglect struggle with setting boundaries, being vulnerable and expressing their emotions.  When you get into a loving intimate relationship, you don’t know what to do with it because you’ve never had it before.",
+      "False Identity:  I am not wanted, I am not good enough, I am not worthy of love",
+    ]; 
+  }
 }
 
 
