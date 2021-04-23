@@ -18,10 +18,10 @@
   font-weight: bold;
 }
 .colorone{
-  color: rgb(231, 19, 19);
+  color: orange;
 }
 .colortwo{
-  color: rgb(95, 95, 180);
+  color: #adc2eb;
 }
 /*----------------------------------*/
 /*showcase*/
@@ -53,9 +53,10 @@
 
 }
 #showcase .showcase-content h1 {
-  font-size: 30px;
+  font-size: 50px;
   line-height: 1.2em;
   margin: 10px;
+  
 }
 #showcase .showcase-content h2,
 #showcase .showcase-content h3 {
@@ -611,7 +612,7 @@ height: max-content;
     top: 0;
     left: 0;
     height: 0.1rem;
-    background-color: rgb(238, 26, 26);;
+    
     width: 2%;
     
 
@@ -635,17 +636,19 @@ height: max-content;
     display: inline-block;
     width: 20px !important ;
     height: 20px !important;
-    margin-right: 10px;
+   text-align: start;
   
 
     border-radius: 3px;
   }
+
   .option {
     font-size: 20px;
     display: block;
     width: 85%;
+  
     margin-bottom: 0px;
-    padding: 10px 20px;
+    padding: 10px 30px;
     border-radius: 1px;
     border: 2px solid  #000;
     transition: 0.4s all;
